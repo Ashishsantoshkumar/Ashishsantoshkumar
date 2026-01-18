@@ -1,4 +1,4 @@
-# Hi there, I'm Ashish Kumar Gupta 👋
+                                                            # Hi there, I'm Ashish Kumar Gupta 👋
 
 ### Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
@@ -22,4 +22,4 @@ I'm a passionate and motivated developer who enjoys building web applications an
 
 
 ## 📫 Connect With Me 
-- Lindin:https://www.linkedin.com/in/ashishkumar-g/
+<a href="https://www.linkedin.com/in/ashishkumar-g/" target="_blank">LinkedIn</a>
