@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ashish Kumar Gupta 👋
 
-<!--
-**Ashishsantoshkumar/Ashishsantoshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
-Here are some ideas to get you started:
+---
+## About me
+I'm a passionate and motivated developer who enjoys building web applications and solving problems through code. Currently focusing on improving my **JavaScript, and React skills**, while learning modern web technologies step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Student 
+- 💡 Interested in Software & Web Development
+- 🌱 Learning JavaScript, React, and DSA
+-  🔍 Exploring real-world projects
+## 🛠️ Tech Stack 
+### 💻 Languages & Web
+- HTML5
+- CSS3
+-  JavaScript
+-   React (Beginner)
+## ⚙️ Tools 
+- Git & GitHub
+
+
+
+## 📫 Connect With Me 
+- Lindin:https://www.linkedin.com/in/ashishkumar-g/
