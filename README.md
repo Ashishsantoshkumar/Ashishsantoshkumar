@@ -1,4 +1,10 @@
-                                                            # Hi there, I'm Ashish Kumar Gupta 👋
+<div align="center">
+
+<h1>Hi there, I'm Ashish Kumar Gupta 👋</h1>
+<h3>Aspiring Software Developer | Web Development Enthusiast</h3>
+
+</div>
+
 
 ### Full-Stack Web Developer | Turning ideas into powerful digital experiences
 
