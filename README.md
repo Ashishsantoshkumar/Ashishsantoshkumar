@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There,%20I'm%20Ashish%20Kumar%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%26%20Automation%20Test%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There%2C%20I%27m%20Ashish%20Kumar%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%26%20Automation%20Test%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+powerful+digital+experiences;Building+with+JavaScript+%26+React;Automating+Quality+with+Selenium+%2B+Java;Learning+CI%2FCD+with+Jenkins" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines= Turning+ideas+into+powerful+digital+experiences;Building+with+JavaScript+%26+React;Automating+Quality+with+Selenium+%2B+Java;Learning+CI%2FCD+with+Jenkins" alt="Typing SVG" />
 </a>
 
 <br/>
