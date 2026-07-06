@@ -1,10 +1,9 @@
 <div align="center">
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+powerful+digital+experiences;Building+with+JavaScript+%26+React;Automating+Quality+with+Selenium+%2B+Java;Learning+CI%2FCD+with+Jenkins" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Turning+ideas+into+powerful+digital+experiences;Building+with+JavaScript+%26+React;Automating+Quality+with+Selenium+%2B+Java;Learning+CI%2FCD+with+Jenkins!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+
+
 
 <br/>
 
