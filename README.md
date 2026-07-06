@@ -15,8 +15,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar-g/)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)]([[https://github.com/yourusername](https://github.com/Ashishsantoshkumar)](https://github.com/Ashishsantoshkumar))
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsanotosh523@gmail.com)
 
 <br/>
 
@@ -90,7 +90,7 @@ I believe great software isn't just built — it's tested, validated, and contin
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 [Project Name] — Automation Test Suite</b></summary>
+<summary><b>🔹 Trivago — Automation Test Suite</b></summary>
 <br/>
 
 [Brief description of the project — what application it tests and what it validates.]
@@ -98,28 +98,12 @@ I believe great software isn't just built — it's tested, validated, and contin
 | Aspect | Details |
 |---|---|
 | **Stack** | Selenium, Java, Cucumber, Jenkins |
-| **Scope** | [Number] test scenarios covering [feature areas] |
+| **Scope** | 10 test scenarios |
 | **Approach** | BDD-style feature files with reusable step definitions |
 | **CI/CD** | Automated test execution via Jenkins pipeline |
-| **Repository** | [github.com/yourusername/project-name](https://github.com/yourusername/project-name) |
+| **Repository** | [github.com/Ashishsantoshkumar/SeleniumProject]((https://github.com/Ashishsantoshkumar/SeleniumProject)](https://github.com/Ashishsantoshkumar/SeleniumProject)) |
 
-[A short professional note on what you learned or built in this project.]
-
-</details>
-
-<details>
-<summary><b>🔹 [Project Name] — Front-End Web App</b></summary>
-<br/>
-
-[Brief description of the web application and its purpose.]
-
-| Aspect | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, React |
-| **Features** | [Key features of the application] |
-| **Repository** | [github.com/yourusername/project-name](https://github.com/yourusername/project-name) |
-
-[A short professional note on the project.]
+[This project strengthened my understanding of writing clean, behavior-driven test cases for a real-world hotel search and comparison platform.]
 
 </details>
 
@@ -130,23 +114,11 @@ I believe great software isn't just built — it's tested, validated, and contin
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar-g/)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
-</div>
 
 ---
 
@@ -158,15 +130,6 @@ I believe great software isn't just built — it's tested, validated, and contin
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
