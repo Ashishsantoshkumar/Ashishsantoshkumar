@@ -76,12 +76,13 @@ I believe great software isn't just built — it's tested, validated, and contin
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Selenium WebDriver** | ⭐⭐⭐☆☆ | Automating browser interactions and building test scripts |
-| **Java** | ⭐⭐⭐☆☆ | Core language for writing automation test frameworks |
-| **Cucumber (BDD)** | ⭐⭐⭐☆☆ | Writing behavior-driven feature files and step definitions |
+| **DSA** | ⭐⭐⭐⭐☆ | Strengthening problem-solving and coding fundamentals |
+| **Selenium WebDriver** | ⭐⭐⭐⭐☆ | Automating browser interactions and building test scripts |
+| **Java** | ⭐⭐⭐⭐☆ | Core language for writing automation test frameworks |
+| **Cucumber (BDD)** | ⭐⭐⭐⭐☆ | Writing behavior-driven feature files and step definitions |
 | **Jenkins (CI/CD)** | ⭐⭐☆☆☆ | Setting up pipelines to run automated test suites |
 | **JavaScript / React** | ⭐⭐⭐☆☆ | Building front-end interfaces and components |
-| **DSA** | ⭐⭐☆☆☆ | Strengthening problem-solving and coding fundamentals |
+
 
 </div>
 
