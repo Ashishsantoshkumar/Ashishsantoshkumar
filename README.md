@@ -94,8 +94,6 @@ I believe great software isn't just built — it's tested, validated, and contin
 <summary><b>🔹 Trivago — Automation Test Suite</b></summary>
 <br/>
 
-[Brief description of the project — what application it tests and what it validates.]
-
 | Aspect | Details |
 |---|---|
 | **Stack** | Selenium, Java, Cucumber, Jenkins |
