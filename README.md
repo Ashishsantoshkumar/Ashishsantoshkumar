@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar-g/)
-[![GitHub](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Ashishsantoshkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ashishsantoshkumar)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsanotosh523@gmail.com)
 
 <br/>
