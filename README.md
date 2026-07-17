@@ -24,10 +24,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashishsantoshkumar&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Ashishsantoshkumar?color=8B5CF6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Ashishsantoshkumar?color=8B5CF6&style=flat-square&label=Stars)
-
 </div>
 
 ---
