@@ -18,6 +18,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ashishsantoshkumar)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsanotosh523@gmail.com)
 
+<a href="https://portfolioashishkumar-inky.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashishsantoshkumar&color=8B5CF6&style=flat-square&label=Profile+Views)
@@ -105,27 +109,6 @@ I believe great software isn't just built — it's tested, validated, and contin
 [This project strengthened my understanding of writing clean, behavior-driven test cases for a real-world hotel search and comparison platform.]
 
 </details>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://portfolioashishkumar-inky.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/Ashishsantoshkumar" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/ashishkumar-g/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
 
 ---
 
