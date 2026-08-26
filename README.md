@@ -107,17 +107,6 @@ I believe great software isn't just built — it's tested, validated, and contin
 </details>
 
 ---
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsantoshkumar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-why this is not running
-
-
----
 
 ## 🎯 Current Focus
 
