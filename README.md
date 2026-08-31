@@ -52,13 +52,19 @@ I believe great software isn't just built — it's tested, validated, and contin
 ---
 
 ## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🧪 Automation Testing**
 
 ![Selenium](https://skillicons.dev/icons?i=selenium) ![Java](https://skillicons.dev/icons?i=java) ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-6D28D9?style=flat-square)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 **💻 Languages & Web**
 
