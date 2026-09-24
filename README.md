@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-I'm **Ashish Kumar Gupta**, a final-year B.Tech (IT) student graduating in 2026. I bring two internships and two completed projects: at **Cognizant**, I built automated test suites using Java, Selenium, TestNG, and Cucumber, backed by SQL and REST API validation; at **Capsitech**, I built responsive UIs with React.js and Tailwind CSS.
+I'm **Ashish Kumar Gupta**, a B.Tech (IT) graduate (2026). I bring two internships and two completed projects: at **Cognizant**, I built automated test suites using Java, Selenium, TestNG, and Cucumber, backed by SQL and REST API validation; at **Capsitech**, I built responsive UIs with React.js and Tailwind CSS.
 
 My **Trivago Automation Framework** applies that testing background at a deeper level — a self-validating Selenium suite with automated reporting. My **Weather App** reflects the same care on the frontend side. I've also solved 400+ problems on LeetCode and GeeksforGeeks to keep my fundamentals sharp.
 
